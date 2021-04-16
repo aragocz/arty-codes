@@ -1,0 +1,5 @@
+:turn 120 left;
+:run 100 go;
+:turnr 120 right;
+
+90 right run turn run turn run turnr run turnr run turnr run turnr run turn run turn run 60 right run turn run turn run run turn run turn run turnr run turnr run

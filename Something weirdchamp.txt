@@ -1,0 +1,4 @@
+:deftest 90 left 50 go ; :deftestinv 90 right 50 go;
+:lol deftest deftestinv deftest deftestinv deftest 180 right deftestinv deftest deftestinv deftest deftestinv deftest 180 right deftestinv deftest deftestinv deftest deftestinv deftest 180 right deftestinv deftest deftestinv deftest deftestinv deftest 180 right ;
+
+lol lol lol lol
