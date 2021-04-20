@@ -1,0 +1,7 @@
+:run 100 go;
+:turn 75 right;
+:turnl 75 left;
+:cube turn run turnl run turnl run 30 left run turnl run turnl run home run turn run home run turnl run home;
+cube turnl run 105 left run turnl run 30 left run turnl run home 180 right run
+
+

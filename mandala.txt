@@ -1,0 +1,9 @@
+:run 50 go;
+:run2p 38 go;
+:turn2p 113 left;
+:turn 45 left;
+
+:basic run home 90 left run home 180 left run home 270 left run home 45 left run home 135 left run home 225 left run home 315 left run;
+:okolo  turn2p run2p turn run2p turn run2p turn run2p turn run2p turn run2p turn run2p turn run2p;
+:final okolo 70 right 5 go okolo ;
+ final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final final 
