@@ -2,4 +2,4 @@
 :run 360 do 1 go 1 right loop;
 :turn 90 left;
 :prc 4 do run turn loop;
-4 do prc 45 left loop
+2 do prc 45 left loop
